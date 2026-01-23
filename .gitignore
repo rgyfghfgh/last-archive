@@ -1,0 +1,17 @@
+database.sql
+spider/logs
+spider/pdfs
+spider/images
+spider/.env
+spider/crawler.log
+embedding_service/models
+llama-go/models
+llama-go/.env
+llama-go/build.sh
+server/node_modules
+server/chat.db
+server/.env
+server/data/
+.vscode/
+qdrant/*
+!qdrant/.gitkeep

@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  llm-server:
+    build: .
+    ports:
+      - "1410:1410"
+    volumes:
+      - ./models:/app/models  # Persist downloaded models
+    environment:
+      - OLLAMA_MODELS=/app/models
+      - PORT=1410
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:1410/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    networks:
+      - archive-network
+
+networks:
+  archive-network:
+    external: true
